@@ -16,36 +16,7 @@ RentCars is an innovative vehicle rental service that provides convenience and o
 
 - **Customer Support:** We provide a friendly and efficient customer support team to assist you at all times.
 
-## Contribution
 
-You are welcome to contribute to the development of RentCars! If you wish to participate, follow these steps:
-
-1. Fork this repository.
-2. Create a branch for your contribution: `git checkout -b your-feature`
-3. Make your changes and commit them: `git commit -m 'Add your feature'`
-4. Push your changes to your repository: `git push origin your-feature`
-5. Open a Pull Request in this repository.
-
-## Development Requirements
-
-- Python 3.7 or higher.
-- Django 3.0 or higher.
-- [List any other specific requirements or dependencies if applicable]
-
-## Installation
-
-1. Clone this repository: `git clone https://github.com/yourusername/RentCars.git`
-2. Create a virtual environment: `python -m venv venv`
-3. Activate the virtual environment: `source venv/bin/activate` (Linux/macOS) or `venv\Scripts\activate` (Windows)
-4. Install dependencies: `pip install -r requirements.txt`
-5. Run database migrations: `python manage.py migrate`
-6. Start the development server: `python manage.py runserver`
-
-## License
-
-This project is under the [license name]. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
 
 If you have any questions or comments about the project, feel free to reach out to us at [email address] or through our website at [website link].
 
